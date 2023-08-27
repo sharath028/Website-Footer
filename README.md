@@ -1,6 +1,8 @@
 # Website-Footer
 # https://sharath028.github.io/Website-Footer/
 
+<img src="Screenshot (189).png">
+
 
 <h1 align="center">Hi 👋,<i> I'm Sharath Naik</i></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
